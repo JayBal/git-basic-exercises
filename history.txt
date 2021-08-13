@@ -1,0 +1,263 @@
+    1  mvjfgsgf
+    2  clear
+    3  jacky baloyi was 
+    4  sudo dpkg -i code_1.58.2-1626302803_amd64.deb
+    5  sudo apt install nodejs
+    6  nodejs winnning.js
+    7  git
+    8  sudo dpkg -i atom-amd64.deb
+    9  git logs
+   10  git --log
+   11  git --logs
+   12  git help
+   13  gitmlog
+   14  sudo apt upgrade
+   15  sudo apt update
+   16  clear
+   17  git --short
+   18  git status -s
+   19  git status 
+   20  git status -s
+   21  cat .ignore
+   22  cat .gitignore
+   23  *.[oa]
+   24  *~
+   25  cat .gitignore*.[oa]*~
+   26  git diff
+   27  git log
+   28  git log -p
+   29  git staus
+   30  git status
+   31  git rm --cached .
+   32  git rm --cached . -r
+   33  git status
+   34  git rm * -r
+   35  git status
+   36  git add .
+   37  git status
+   38  git rm * -r
+   39  git rm * -r -f
+   40  git status
+   41  clear
+   42  git rm \*.
+   43  git rm *.
+   44  ls
+   45  ls  -a
+   46  cd ../
+   47  ls
+   48  rm git-one -r
+   49  ls
+   50  clear
+   51  ls
+   52  mkdir myGit-1
+   53  cd myGit-1
+   54  git init
+   55  git status
+   56  touch index.html
+   57  touch hell.php
+   58  git status
+   59  git add .
+   60  git status
+   61  vim hell.php
+   62  php hell.php
+   63  git status
+   64  git add hell.php
+   65  git status
+   66  vim hell.php
+   67  php hell.php
+   68  vim hell.php
+   69  php hell.php
+   70  vim hell.php
+   71  php hell.php
+   72  git staus
+   73  git status
+   74  git commit
+   75  git status
+   76  git add hell.php
+   77  git status
+   78  git commit -m "Modified hell.php. Added a new line."
+   79  git status
+   80  git log
+   81  git status -s
+   82  git log
+   83  git log main
+   84  git log main -p
+   85  git diff
+   86  git log --stat
+   87  git log %t
+   88  git log %T
+   89  git log --%T
+   90  git log --T
+   91  git log -- %T
+   92  git log --pretty=%T
+   93  git log --pretty=%H
+   94  git log --pretty=%an
+   95  git log --pretty=%ae
+   96  git log --pretty=%ae --graph
+   97  git log --pretty=%T --graph
+   98  clear
+   99  git status
+  100  git add index.html
+  101  git status
+  102  git restore --staged index.html
+  103  git status
+  104  git add index.html
+  105  git status
+  106  git reset HEAD index.html
+  107  git status
+  108  git remote
+  109  git clone https://github.com/sorrycc/awesome-javascript.git
+  110  git remote
+  111  ls
+  112  cd awesome-javascript
+  113  git remote
+  114  cd ../
+  115  ls
+  116  cd awesome-javascript 
+  117  git remote
+  118  git remote show origin
+  119  git tag
+  120  git tag -l
+  121  cd ../
+  122  git tag
+  123  clear
+  124  git tag -a v0.1 -m "Home made version 0.1"
+  125  git tag
+  126  git show v0.1
+  127  git -d  v0.1
+  128  git -d -a v0.1
+  129  clear
+  130  git tag -d v0.1
+  131  git log --online
+  132  git log --oneline
+  133  git log 
+  134  git status
+  135  git branch new-feature-1
+  136  git branch -a
+  137  git checkout new-feature-1
+  138  git branch -a
+  139  git status
+  140  git add hello.js
+  141  git status
+  142  git branch -a
+  143  git staus
+  144  git status
+  145  git commint -m "Added a javascript function."
+  146  git commit -m "Added a javascript function."
+  147  git status
+  148  git checkout main
+  149  git status
+  150  git checkout new-feature-1
+  151  git branch -a
+  152  git checkout main
+  153  git branch -d new-feature-1
+  154  git branch -D new-feature-1
+  155  git branch -a
+  156  git brach feature-1
+  157  git branch feature-1
+  158  git status
+  159  git add keep.js
+  160  git status
+  161  git commit -m "Test file"
+  162  git checkout main
+  163  git branch -a
+  164  git checkout feature-1
+  165  git status
+  166  git add mpumi.js
+  167  git commit -m "Added new gf"
+  168  git checkout main
+  169  git checkout -b feature-2
+  170  git status
+  171  git add feature.js
+  172  git commit -m "Hello Feature 2"
+  173  git checkout main
+  174  git branch -a
+  175  git checkout feature-1
+  176  git branch -a
+  177  git checkout feature-2
+  178  git checkout feature-1
+  179  git checkout feature-2
+  180  git checkout main
+  181  git checkout feature-1
+  182  git checkout main
+  183  git merge feature-1
+  184  git checkout main
+  185  git merge feature-1
+  186  git merge feature-2
+  187  git status
+  188  git branch -v
+  189  clear
+  190  cd ~
+  191  ls
+  192  mkdir git-basic-exercises
+  193  cd git-basic-exercises
+  194  ls -a
+  195  git init
+  196  ls -a
+  197  git status
+  198  touch README.md
+  199  ls -a
+  200  git statusj
+  201  git status
+  202  git log
+  203  git add README.md
+  204  git status
+  205  git commit -m "initial commit"
+  206  git log
+  207  git status
+  208  git stats
+  209  git help
+  210  git help || grep 'stats'
+  211  git help | grep 'stats'
+  212  git help | grep pull
+  213  git help | grep stats
+  214  git stats
+  215  hugo
+  216  clar
+  217  clear
+  218  hugo serve -b "http://localhost:1313/"
+  219  /usr/local/bin/hugo serve -b "http://localhost:1313/"
+  220  clear
+  221  cat README.md
+  222  git status
+  223  git commit -m "second commit"
+  224  git status
+  225  git commit -m "second commit"
+  226  git log
+  227  git add README.md
+  228  git status
+  229  git commit -m "second commit"
+  230  git status
+  231  git add.
+  232  git add .
+  233  git status
+  234  git commit -m "third commit"
+  235  git log
+  236  git checkout d3351d32cdb4d1186a2a0d2521ba3b3a131a1ff2
+  237  cat README.md
+  238  git branch -a
+  239  git checkout main
+  240  cat README.md
+  241  git branch -d milkshake-flavours 
+  242  git branch -a milkshake-flavours 
+  243  git branch  milkshake-flavours 
+  244  git branch
+  245  git checkout milkshake-flavours
+  246  git branches
+  247  git branch
+  248  nano milkshakes.md
+  249  cat milkshakes.md
+  250  git status
+  251  git add .
+  252  git commit -m "added initial flavours"
+  253  git log
+  254  git branch
+  255  git checkout main
+  256  git status
+  257  git checkout -d history
+  258  git checkout -a history
+  259  git checkout -b history
+  260  git log
+  261  git branch
+  262  history
+  263  history > history.txt
